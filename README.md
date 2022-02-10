@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/omerkorkmazz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="https://okorkmaz.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"></a>
 <a href="https://twitter.com/korkmazomeer" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
-<a href="https://www.instagram.com/omeerkorkmazz" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="https://orcid.org/0000-0002-9807-0394" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 <a href="mailto:omer.korkmaz.95@windowslive.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=omeerkorkmazz&label=Profile%20views&color=0e75b6&style=flat" alt="omeerkorkmazz"/></a>
