@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ömer</h1>
-<h3 align="center">Software Engineer | Researcher | Test Enthusiast | M.Sc</h3>
+<h3 align="center">M.Sc | Software Engineer | Researcher | Test Enthusiast </h3>
 <p align="center">
 <a href="https://github.com/omeerkorkmazz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/omerkorkmazz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
