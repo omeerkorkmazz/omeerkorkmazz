@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ömer</h1>
+<h1 align="center">Hi, I'm Ömer</h1>
 <h3 align="center">M.Sc | Software Engineer | Researcher | Test Enthusiast </h3>
 <p align="center">
 <a href="https://github.com/omeerkorkmazz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
